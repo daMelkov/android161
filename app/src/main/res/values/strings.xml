@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MelkovHw161</string>
+    <string name="enter_address">Укажите адрес или координаты</string>
+    <string name="Search">Поиск</string>
 </resources>
